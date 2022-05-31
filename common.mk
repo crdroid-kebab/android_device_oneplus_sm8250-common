@@ -415,8 +415,7 @@ PRODUCT_BOOT_JARS += \
 
 # OnePlus Apps
 PRODUCT_PACKAGES += \
-    OnePlusCameraOverlay \
-    OnePlusGalleryOverlay
+    OnePlusCameraOverlay
 
 # Power
 PRODUCT_PACKAGES += \
